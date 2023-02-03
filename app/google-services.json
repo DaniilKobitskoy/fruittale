@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048248899245",
+    "project_id": "fruit-tale-6bbbb",
+    "storage_bucket": "fruit-tale-6bbbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048248899245:android:f4b5b41667a4c196f0d824",
+        "android_client_info": {
+          "package_name": "com.tale.fruittale.fruit.modile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048248899245-1hh25f34se0ogj2p6fvptuk7qv0mpeth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cNyzITg3HBdMtQxyrSyLJFnn5EIdarE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048248899245-1hh25f34se0ogj2p6fvptuk7qv0mpeth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
